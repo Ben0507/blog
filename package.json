@@ -1,0 +1,16 @@
+{
+  "name": "Ben Blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev . --open --host \"localhost\"",
+    "build": "vuepress build .",
+    "deploy": "deploy.bat"
+  },
+  "devDependencies": {
+    "markdown-it-disable-url-encode": "^1.0.1",
+    "vuepress": "1.9.7",
+    "vuepress-theme-reco": "1.6.17"
+  },
+  "description": ""
+}
