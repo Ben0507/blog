@@ -1,2 +1,2 @@
 @echo off
-vuepress build docs
+vuepress build .

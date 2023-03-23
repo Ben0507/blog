@@ -73,7 +73,7 @@ module.exports = {
     "searchMaxSuggestions": 10,
     "lastUpdated": "Last Updated",
     "author": "Ben",
-    "authorAvatar": "/avatar.png",
+    "authorAvatar": "/authorAvatar.jpg",
     "startYear": "2023",
     huawei: true
   },
