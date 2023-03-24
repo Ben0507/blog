@@ -71,7 +71,7 @@ module.exports = {
         // "logo": "/logo.png",
         "search": true,
         "searchMaxSuggestions": 10,
-        "lastUpdated": "Last Updated",
+        "lastUpdated": "最后更新时间",
         "author": "Ben",
         "authorAvatar": "/authorAvatar.jpg",
         "startYear": "2023",
