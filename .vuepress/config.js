@@ -11,7 +11,7 @@ let SuffixIncludes = ['.md', '.html']
 let sidebar = sideBarTool.genSideBar(rootPath, unDirIncludes, SuffixIncludes)
 
 module.exports = {
-    // base: '/blog/public/',
+    base: '/blog/public/',
     "title": "Ben Blog",
     "description": "",
     "dest": "public",
