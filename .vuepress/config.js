@@ -57,8 +57,6 @@ module.exports = {
             }
         ],
         "sidebar":sidebar.sideBar,
-        // 配置两个参数，一个是文章的根目录，第二是白名单（选择性配置）
-        // "sidebar": sidebar,
         "type": "blog",
         "blogConfig": {
             "category": {
