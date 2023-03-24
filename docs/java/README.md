@@ -1,5 +1,5 @@
 ---
-title: 中文标题
+title: java
 date: 2020-05-29
 ---
 
