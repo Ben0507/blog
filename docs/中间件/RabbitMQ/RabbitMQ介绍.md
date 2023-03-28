@@ -4,7 +4,7 @@ date: '2023/3/24 17:04'
 sidebar: 'auto'
 categories:
 - RabbitMQ
-  tags:
+tags:
 - RabbitMQ
 ---
 
